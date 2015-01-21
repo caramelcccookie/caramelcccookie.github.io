@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "0301"
-date:   2015-03-01 0:00:01
+date:   2015-03-01 00:00:01
 categories: private
 ---
 This is test.
 [tweet]
 
-[tweet]:      http://twitter.com/caramelcccooike
+[tweet]:      http://twitter.com/caramelcccookie
